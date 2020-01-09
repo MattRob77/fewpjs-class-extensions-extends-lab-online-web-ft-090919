@@ -1,4 +1,4 @@
 // Your code here
-class polygon(arr) {
-  contructor
-}
+class polygon {
+  contructor(arr)
+} 
