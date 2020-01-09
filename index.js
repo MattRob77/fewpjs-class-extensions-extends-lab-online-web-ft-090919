@@ -25,11 +25,11 @@ class Triangle extends Polygon {
 }
 
 class Square extends Polygon {
-    get isValid() {
-       return this.array.every( num => num === this.array[0] ) 
-    }
-
-    get area() {
-        return this.array.slice(0, 2).reduce((a, b) => a * b)
-    }
+  get isValid() {
+    return this.array.every( num => num === this.array[0] ) 
+    
+  }
+  get area() {
+    return this.array.slice(0, 2).reduce((a, b) => a * b)
+  }
 }
