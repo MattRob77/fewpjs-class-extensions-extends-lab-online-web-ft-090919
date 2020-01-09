@@ -16,6 +16,6 @@ class Triangle extends Polygon() {
     let a = this.array[0]
     let b = this.array[1]
     let c = this.array[2]
-    if (a)
+    if (a + b < )
   }
 }
