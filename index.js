@@ -1,4 +1,4 @@
 // Your code here
-class Polygon(arr) {
-  this.arr = array 
+class Polygon(array) {
+  this.array = array 
 } 
