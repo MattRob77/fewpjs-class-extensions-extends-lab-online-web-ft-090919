@@ -1,6 +1,5 @@
 // Your code here
-class polygon {
-  contructor(array) {
-    this.array = array 
-  }
-} 
+class Polygon {
+    constructor(array) {
+        this.array = array 
+    }
