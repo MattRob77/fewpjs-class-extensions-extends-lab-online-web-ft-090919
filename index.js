@@ -15,6 +15,7 @@ class Triangle extends Polygon() {
   get isValid() {
     let a = this.array[0]
     let b = this.array[1]
-    let c = this.array[3]
+    let c = this.array[2]
+    
   }
 }
