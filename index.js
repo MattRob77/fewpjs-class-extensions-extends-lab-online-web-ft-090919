@@ -23,3 +23,7 @@ class Triangle extends Polygon {
       return false 
   }
 }
+
+class Square extends Polygon {
+  
+}
