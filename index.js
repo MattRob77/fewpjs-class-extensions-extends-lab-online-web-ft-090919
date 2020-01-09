@@ -9,5 +9,5 @@ class Polygon {
   get perimeter() {
     return this.array.reduce ((a,b) => a + b)
   }
-  
 }
+
