@@ -4,6 +4,6 @@ class Polygon {
     this.array = array 
   } 
   get countsides() {
-    
+    return this.array.length 
   } 
 }
